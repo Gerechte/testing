@@ -1,4 +1,3 @@
-# testing
 package javaapplication;
 
 import java.io.BufferedReader;
